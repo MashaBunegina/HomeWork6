@@ -20,8 +20,8 @@ public class Main {
         for (int g = 7; g <= 98; g = g +7) {
             System.out.println(g);
         }
-        for ( int h = 1; h <=512; h = h *2){
-            System.out.println(h);
+        for ( int s = 1; s <=512; s = s *2){
+            System.out.println(s);
         }
    // Задание  2
         int capital = 29000;
